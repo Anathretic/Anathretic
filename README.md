@@ -12,7 +12,7 @@
 
 ## How to reach me? 🌐
 
-- E-mail: [Click it!](konrad.wojtylo.9@gmail.com)
+- E-mail: konrad.wojtylo.9@gmail.com
 - LinkedIn: [Click it!](https://www.linkedin.com/in/konrad-wojtylo/)
 - Website: [Click it!](https://konrad-wojtylo.com/)
 
