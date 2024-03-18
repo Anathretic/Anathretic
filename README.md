@@ -4,7 +4,7 @@
 
 ## About me 📖
 
-- 💻 **I'm currently working on:** starting the Next.js project - an app to display comics (incl. register/login).
+- 💻 **I'm currently working on:** a project in Next.js that I am working on with a small team.
 - 💰 **Previously, I worked as a sales and marketing specialist and leader of a small team**, but due to my love of programming, I decided to deep dive into IT.
 - 🌱 **I'm constantly learning and improving my skills (hard and soft).** But because of my studies I am slowly returning to C++, and thinking about C#.
 - 👯 **I'm open to collaborating on Front-End web development projects.** I have an experience with clients and tools like Supabase, Firebase or Strapi.
