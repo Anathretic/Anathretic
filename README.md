@@ -1,6 +1,6 @@
 # Hi, I'm Konrad Wojtyło! 👋
 
-*I'm a passionate Front-End Developer who is trying to master React and also loves learning new technologies. I started my programming adventure while still in high school, learning the C and C++ languages, which I used to create simple modifications for many games. In the future I want to become a fullstack developer (or a game developer - it's a little dream ❤️), but right now I'm focusing on the Front-End.*
+*I'm a passionate Front-End Developer who is trying to master React/Next.js and also loves learning new technologies. I started my programming adventure while still in high school, learning the C and C++ languages, which I used to create simple modifications for many games. In the future I want to become a fullstack developer (or a game developer - it's a little dream ❤️), but right now I'm focusing on the Front-End.*
 
 ## About me 📖
 
