@@ -4,7 +4,7 @@
 
 ## About me 📖
 
-- 💻 **I'm currently working on:** a few projects for my clients.
+- 💻 **I'm currently working on:** a few React/Next.js projects for my clients.
 - 💰 **Previously, I worked as a sales and marketing specialist and leader of a small team**, but due to my love of programming, I decided to deep dive into IT.
 - 🌱 **I'm constantly learning and improving my skills (hard and soft).** But because of my passion, I am learning C++/C# to use it in Unreal Engine and Unity.
 - 👯 **I'm open to collaborating on Front-End web development projects.** I have an experience with clients and tools like Supabase, Firebase, Strapi and Stripe payments.
