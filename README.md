@@ -16,7 +16,7 @@
 - **Backend:** Python, Django, Node.js, Express.js *- but I need some time to understand more advanced issues.*
 - **Database:** PostgreSQL, MySQL, MongoDB, NoSQL (Firebase, Supabase)
 
-* *but these are only the most important tools!* 😉
+*but these are only the most important tools!* 😉
 
 ## How to reach me? 🌐
 
