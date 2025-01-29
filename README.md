@@ -10,13 +10,13 @@
 - 👯 **I'm open to any interesting project.** I have experience with many tools and love to share good code practices.
 - 💬 **Feel free to ask me about my tech-stack, experience or projects.** I do not bite! 🤭
 
-## Current tech-stack* 💻
+## Current tech-stack 💻
 
 - **Frontend:** HTML, CSS, SASS, JavaScript, React, React Native, React Redux, TypeScript, Next.js
 - **Backend:** Python, Django, Node.js, Express.js *- but I need some time to understand more advanced issues.*
 - **Database:** PostgreSQL, MySQL, MongoDB, NoSQL (Firebase, Supabase)
 
-*but these are only the most important tools!* 😉
+*But these are only the most important tools!* 😉
 
 ## How to reach me? 🌐
 
