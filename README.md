@@ -23,7 +23,7 @@
 
 - E-mail: konrad.wojtylo.9@gmail.com - want to collab? Just write!
 - LinkedIn: [Click it!](https://www.linkedin.com/in/konrad-wojtylo/) - check out my experience!
-- Website: [Click it!](https://konrad-wojtylo.com/) - requires a complete redesign but.. I have too many projects right now.. 😄
+- Website: Requires a complete redesign but.. I have too many projects right now.. 😄 Coming soon!
 
 <!--
 **Anathretic/Anathretic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
