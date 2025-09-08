@@ -1,10 +1,10 @@
 # Hi, I'm Konrad Wojtyło! 👋
 
-*I'm a passionate Front-End Developer who is trying to master React/Next.js and also loves learning new technologies. I have a couple of years' experience during which I have worked on applications related to the aviation, education and entertainment (streaming) industries. I started my programming adventure while still in high school, learning the C and C++ languages, which I used to create simple modifications for many games. One day I will become a game developer..! However, I do not exclude working on projects as a **frontend** or **fullstack** developer.*
+*I'm a passionate Software Engineer who is trying to master React/Next.js and also loves learning new technologies. I have a couple of years' experience during which I have worked on applications related to the aviation, education and entertainment (streaming) industries. I started my programming adventure while still in high school, learning the C and C++ languages, which I used to create simple modifications for many games. I do not exclude working on projects as a **frontend** or **fullstack** developer,* but please note that I am in the process of developing my own company.
 
 ## About me 📖
 
-- 💻 **I'm currently working on** an huge app for the educational sector and first game with my own small team. The projects require me to use **frontend** as well as **backend** technologies and **game engines** of course.
+- 💻 **I'm currently working on** an huge app for the educational sector. The project require me to use **frontend** as well as **backend** technologies and **game engines** too!
 - 💰 **Previously, I worked as a sales and marketing specialist and leader of a small team**, but due to my love of programming, I decided to deep dive into IT in 2021.
 - 🌱 **I'm constantly learning and improving my skills (hard and soft).** But because of my passion to games, I am learning C++/C# to use it in Unreal Engine and Unity. However, I am also expanding my knowledge of .NET platform.
 - 👯 **I'm open to any interesting project.** I have experience with many tools and love to share good code practices.
@@ -23,7 +23,7 @@
 
 - E-mail: konrad.wojtylo.9@gmail.com - want to collab? Just write!
 - LinkedIn: [Click it!](https://www.linkedin.com/in/konrad-wojtylo/) - check out my experience!
-- Website: Requires a complete redesign but.. I have too many projects right now.. 😄 Coming soon!
+- Website: My own website requires a complete redesign but.. You can view my company's website here - [Check it!](https://learnica.pl/) 😄
 
 <!--
 **Anathretic/Anathretic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
