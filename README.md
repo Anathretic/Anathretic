@@ -1,6 +1,6 @@
 # Hi, I'm Konrad Wojtyło! 👋
 
-*I'm a passionate Software Engineer who is trying to master React/Next.js and also loves learning new technologies. I have a couple of years' experience during which I have worked on applications related to the aviation, education and entertainment (streaming) industries. I started my programming adventure while still in high school, learning the C and C++ languages, which I used to create simple modifications for many games. I do not exclude working on projects as a **frontend** or **fullstack** developer, but please note that I am in the process of developing my own company.*
+*I'm a passionate Software Engineer who is trying to master React/Next.js and also loves learning new technologies. I have a couple of years' experience during which I have worked on applications related to the aviation, education and entertainment (streaming) industries. I started my programming adventure while still in high school, learning the C and C++ languages, which I used to create simple modifications for many games. I do not exclude working on projects as a **frontend** or **fullstack** developer!*
 
 ## About me 📖
 
@@ -12,8 +12,8 @@
 
 ## Current tech-stack 💻
 
-- **Frontend:** HTML, CSS, SASS, JavaScript, React, React Native, React Redux, Zustand, TypeScript, Next.js, Yup, Zod, Cypress
-- **Backend:** C# (.NET), Node.js, Express.js
+- **Frontend:** HTML, CSS, SASS, JavaScript, TypeScript, React, React Native, Next.js, React Redux, Jotai, React-Query, Tailwind, Zod, Storybook, Cypress, Vitest
+- **Backend:** C# (.NET), Java, Spring Boot, Node.js, Express.js
 - **Database:** PostgreSQL, MySQL, MongoDB, NoSQL (Firebase, Supabase)
 - **Game-Dev:** Unity (C#), Unreal Engine (C++)
 
