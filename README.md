@@ -13,7 +13,7 @@
 ## Current tech-stack 💻
 
 - **Frontend:** HTML, CSS, SASS, JavaScript, TypeScript, React, React Native, Next.js, React Redux, Jotai, React-Query, Tailwind, Zod, Storybook, Cypress, Vitest
-- **Backend:** C# (.NET), Java, Spring Boot, Node.js, Express.js
+- **Backend:** C# (.NET), Node.js, Express.js
 - **Database:** PostgreSQL, MySQL, MongoDB, NoSQL (Firebase, Supabase)
 - **Game-Dev:** Unity (C#), Unreal Engine (C++)
 
