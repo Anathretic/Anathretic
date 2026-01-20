@@ -15,7 +15,7 @@ Tech Lead & Software Engineer
 
 ## 🛠 Current tech-stack
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux, React Query, Jotai, Zod, Storybook, Cypress, Vitest
+- **Frontend:** JavaScript, React, Next.js, TypeScript, Tailwind CSS, Redux, React Query, Jotai, Zod, Storybook, Cypress, Vitest
 - **Backend:** C# (.NET), Node.js, Express.js
 - **Database:** PostgreSQL, MySQL, MongoDB, NoSQL, Firebase, Supabase
 - **Game-Dev:** Unity (C#), Unreal Engine (C++)
