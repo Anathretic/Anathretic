@@ -1,29 +1,37 @@
 # Hi, I'm Konrad Wojtyło! 👋
+Tech Lead & Software Engineer
 
-*I'm a passionate Software Engineer who is trying to master React/Next.js and also loves learning new technologies. I have a couple of years' experience during which I have worked on applications related to the aviation, education and entertainment (streaming) industries. I started my programming adventure while still in high school, learning the C and C++ languages, which I used to create simple modifications for many games. I do not exclude working on projects as a **frontend** or **fullstack** developer!*
+*I’m a Software Engineer with several years of commercial experience, currently leading the technical direction of a large-scale platform. I specialize in designing scalable architectures, aligning frontend and backend teams, and delivering products that balance long-term maintainability with real business impact.*
 
-## About me 📖
+*I started my programming journey in high school with C and C++, building simple game modifications. Today, I combine that early low-level foundation with modern web technologies to guide teams and systems from concept to production.*
 
-- 💻 **I'm currently working on** an huge app for the educational sector. The project requires me to use **frontend** as well as **backend** technologies and **game engines** too!
-- 💰 **Previously, I worked as a sales and marketing specialist and leader of a small team**, but due to my love of programming, I decided to deep dive into IT in 2021.
-- 🌱 **I'm constantly learning and improving my skills (hard and soft).** But because of my passion to games, I am learning C++/C# to use it in Unreal Engine and Unity. However, I am also expanding my knowledge of .NET platform.
-- 👯 **I'm open to any interesting project.** I have experience with many tools and love to share good code practices.
-- 💬 **Feel free to ask me about my tech-stack, experience or projects.** I do not bite! 🤭
+## 🚀 What I do
 
-## Current tech-stack 💻
+- Lead technical architecture and decision-making across frontend, backend, and system integration
+- Translate product and business goals into robust, scalable technical solutions
+- Mentor developers, conduct code reviews, and establish engineering best practices
+- Collaborate closely with product, UX/UI, and QA to ensure high-quality delivery
+- Drive MVP and milestone deliveries while keeping technical debt under control
 
-- **Frontend:** HTML, CSS, SASS, JavaScript, TypeScript, React, React Native, Next.js, React Redux, Jotai, React-Query, Tailwind, Zod, Storybook, Cypress, Vitest
+## 🛠 Current tech-stack
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux, React Query, Jotai, Zod, Storybook, Cypress, Vitest
 - **Backend:** C# (.NET), Node.js, Express.js
-- **Database:** PostgreSQL, MySQL, MongoDB, NoSQL (Firebase, Supabase)
+- **Database:** PostgreSQL, MySQL, MongoDB, NoSQL, Firebase, Supabase
 - **Game-Dev:** Unity (C#), Unreal Engine (C++)
 
-*But these are only the most important tools!* 😉
+## 📈 Background
+
+Before transitioning fully into software engineering in 2021, I worked in sales and marketing, leading a small team. This background helps me bridge technical decisions with business needs and communicate effectively across disciplines.
+
+## 🤝 Collaboration
+
+I’m open to meaningful projects where engineering quality, ownership, and impact matter. I enjoy sharing best practices and building systems that scale with both teams and products.
 
 ## How to reach me? 🌐
 
 - E-mail: konrad.wojtylo.9@gmail.com - want to collab? Just write!
 - LinkedIn: [Click it!](https://www.linkedin.com/in/konrad-wojtylo/) - check out my experience!
-- Website: My own website requires a complete redesign but.. You can view my company's website here - [Check it!](https://learnica.pl/) 😄
 
 <!--
 **Anathretic/Anathretic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
