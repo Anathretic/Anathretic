@@ -28,7 +28,7 @@ Before transitioning fully into software engineering in 2021, I worked in sales 
 
 I’m open to meaningful projects where engineering quality, ownership, and impact matter. I enjoy sharing best practices and building systems that scale with both teams and products.
 
-## How to reach me? 🌐
+## 🌐 How to reach me?
 
 - E-mail: konrad.wojtylo.9@gmail.com - want to collab? Just write!
 - LinkedIn: [Click it!](https://www.linkedin.com/in/konrad-wojtylo/) - check out my experience!
